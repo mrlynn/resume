@@ -12,7 +12,7 @@ Principal Staff Developer Advocate at MongoDB with 25+ years of experience in en
 
 **[View Resume (Markdown)](./resume.md)**
 
-**[Download Resume (Raw)](https://raw.githubusercontent.com/mrlynn/resume/main/resume.md)**
+**[Download Resume (Raw)](https://raw.githubusercontent.com/mrlynn/resume/master/resume.md)**
 
 ## 🔗 Connect
 
