@@ -6,7 +6,7 @@
 
 ## About
 
-Principal Staff Developer Advocate at MongoDB with 25+ years of experience in enterprise infrastructure, developer relations, and hands-on engineering. Focused on AI enablement, Vector Search, and helping developers build smarter applications.
+Principal Staff Developer Advocate at MongoDB with 25+ years of experience in enterprise infrastructure, developer relations, and hands-on engineering and technical leadership. Focused on AI enablement, Vector Search, and helping developers build smarter applications.
 
 ## 📄 Resume
 
